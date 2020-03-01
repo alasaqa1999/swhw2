@@ -1,4 +1,4 @@
-package swhw2;
+package code;
 
 public class calc {
 

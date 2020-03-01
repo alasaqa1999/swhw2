@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import swhw2.calc;
+import code.calc;
 
 public class cTest {
 
